@@ -1,0 +1,2 @@
+Type=Application
+Exec=python /home/pi/mouse.py
